@@ -17,7 +17,7 @@ install and configure the extension and SDK.
 
 2.  **Install the Composer package:**
     ```bash
-     composer require cmelius/opentelemetry-twig-instrumentation
+     composer require cmelius/opentelemetry-auto-twig
     ```
 3. **Enable Twig-Instrumentation:**
     ```
