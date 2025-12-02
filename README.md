@@ -1,3 +1,9 @@
+# Intro
+In my company we needed a twig instrumentation to see what was consuming time.
+It's a CraftCMS website running on PHP 8.4.
+
+This may not be perfect but it did show us time consumed by twig templates.
+
 # OpenTelemetry Twig auto-Instrumentation
 
 This package provides automatic instrumentation for Twig templates.
